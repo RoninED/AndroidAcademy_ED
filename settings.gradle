@@ -1,0 +1,2 @@
+rootProject.name='AndroidAcademy_ED'
+include ':app'
